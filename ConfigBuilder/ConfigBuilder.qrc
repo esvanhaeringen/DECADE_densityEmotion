@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ConfigBuilder">
+        <file>icons/configBuilder.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qArrow2D">
+    <file>icons/reset.ico</file>
+    <file>icons/pause.ico</file>
+    <file>icons/play.ico</file>
+    <file>icons/stop.ico</file>
+    <file>icons/QArrow2D.ico</file>
+    <file>icons/recStart.ico</file>
+    <file>icons/recStop.ico</file>
+  </qresource>
+</RCC>
